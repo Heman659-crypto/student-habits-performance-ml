@@ -143,7 +143,7 @@ Repository Structure
 
 student-habits-performance-ml/
 │
-├── Day18_19_Student_Performance_ML_Complete.ipynb
+├── Day18_19_Student_Performance_ML.ipynb
 ├── README.md
 ├── .gitignore
 └── LICENSE
@@ -168,7 +168,7 @@ jupyter notebook
 
 Open:
 
-Day18_19_Student_Performance_ML_Complete.ipynb
+Day18_19_Student_Performance_ML.ipynb
 
 Make sure the CSV dataset is located in the same directory as the notebook.
 
