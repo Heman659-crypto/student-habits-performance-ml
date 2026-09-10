@@ -216,3 +216,45 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / Editors
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Logs
+*.log
+
+# Local data / generated files
+data/raw/
+data/processed/
+
+# Temporary files
+*.tmp
+*.temp
